@@ -1,0 +1,12 @@
+#+title:    Lesson-1
+#+author:   Alberto Valdez
+#+email:    avq5ac1@gmail.com
+#+SETUPFILE: https://albertov5.github.io/org-html-themes/org/theme-readtheorg.setup
+#+OPTIONS: num:nil
+#+PROPERTY: header-args :mkdirp yes :dir . :exports both
+#+PROPERTY: header-args:shell :results drawer :wrap example :results silent
+#+PROPERTY: header-args:python :exports both :results output replace
+
+| [[./index.org][<<Back]] | [[./lesson-2.org][Lesson-2]] | [[./material.org][Material]] | [[./challenge/readme.org][Challenge>>]] |
+
+* Content

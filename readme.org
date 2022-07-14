@@ -1,0 +1,16 @@
+#+title:    Excel for Data Analytics
+#+author:   Alberto Valdez
+#+email:    avq5ac1@gmail.com
+#+SETUPFILE: https://albertov5.github.io/org-html-themes/org/theme-readtheorg.setup
+#+OPTIONS: num:nil
+#+PROPERTY: header-args :mkdirp yes :dir . :exports both
+#+PROPERTY: header-args:shell :results drawer :wrap example :results silent
+#+PROPERTY: header-args:python :exports both :results output replace
+#+INCLUDE: ./publish.inc
+
+
+| [[https://albertov5.github.io/tec-data/index.html][<<<Home]] | [[./lesson-1.org][Lesson-1]] | [[./lesson-2.org][Lesson-2]] | [[./challenge/readme.org][Challenge>>]] |
+
+* Header
+
+* Resources
