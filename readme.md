@@ -1,9 +1,3 @@
-[Home: Week-1](../readme.md)
-
-[Resource: Excel Workbook (Challenge)](./Kickstarter_challenge.xlsx)
-
-[Resource: Lesson Activities](../lesson-1)
-
 # Kickstarting with Excel
 
 ## Project Overview
